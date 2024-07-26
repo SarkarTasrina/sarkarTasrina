@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Partners](partners.com.bd)
 
-- 🌱 I’m currently learning **Manual Testing, API Testing, Automation Testing,java,javascriptst**
+- 🌱 I’m currently learning **Manual Testing, API Testing, Automation Testing,java,JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SarkarTasrina](https://github.com/SarkarTasrina)
 
